@@ -1,2 +1,2 @@
-# IASchool
+# ShinyApp
 Repository du module
